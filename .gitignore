@@ -1,0 +1,4 @@
+# idea and git ignore
+.gitignore
+.idea/
+*.iml
